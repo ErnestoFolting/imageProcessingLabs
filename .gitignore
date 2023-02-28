@@ -130,3 +130,8 @@ dmypy.json
 
 *.MOV
 *.mp4
+
+# Lab4
+dataset
+models
+examples
